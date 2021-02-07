@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607221838217",
+    "firebase_url": "https://covacvaccine-40581-default-rtdb.firebaseio.com",
+    "project_id": "covacvaccine-40581",
+    "storage_bucket": "covacvaccine-40581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607221838217:android:986887326ab0bfc0f83158",
+        "android_client_info": {
+          "package_name": "com.example.covac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607221838217-e1h266gnkc6k3ldih8jarag0res37mlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covac",
+            "certificate_hash": "40ba3b1a9290b64c8f9b66f6b9b29431a6c7e91b"
+          }
+        },
+        {
+          "client_id": "607221838217-7rgparhg0coi94ch33t5jfum8tq0vj3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0hGKEE1kD9QnHdha-gfWONyLCl3-L0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607221838217-7rgparhg0coi94ch33t5jfum8tq0vj3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
